@@ -11,7 +11,18 @@ JobTracker is a web application designed to help users keep track of the jobs th
 <h3>Authentication</h3>: JSON Web Tokens (JWT) <br>
 <h3>Session Management</h3>: Cookies
 <br>
-
-Screenshots
+<br>
+<br>
+<h1>Screenshots</h1>
 <hr>
+
+![1](https://github.com/user-attachments/assets/655d0cd9-19d8-4d37-b42c-a9abf8a69bce)
+![2](https://github.com/user-attachments/assets/83911985-7a99-45e0-9cef-ef1d77354ac8)
+![3](https://github.com/user-attachments/assets/43f25772-7121-4588-a6c3-4bc529439bf4)
+![4](https://github.com/user-attachments/assets/17e7fc17-4502-4fea-a591-420cac947178)
+
+
+
+
+
 
